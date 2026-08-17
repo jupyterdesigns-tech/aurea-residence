@@ -1,0 +1,6 @@
+{
+  "name": "Aurea Residences",
+  "description": "Viver é escolher o extraordinário - Single viewport luxury real-estate hero landing page",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
